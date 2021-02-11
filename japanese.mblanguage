@@ -1,11 +1,11 @@
 {
-    "description": "Copyright © 2020 gin0492 All Rights Reserved.",
+    "description": "Copyright © 2021 gin0492 All Rights Reserved.",
     "file/": {
         "language": "日本語",
 		"locale": "ja-JP",
         "translator": "kuadr0",
         "forversion": "1.1.3",
-        "lastchange": "2021/01/20"
+        "lastchange": "2021/02/11"
     },
 	"startup/": {
 		"modeldetected": "未保存モデルの検出",
@@ -623,7 +623,7 @@
 		"looksensitivity": "見た目の感度",
 		"viewportmousecontrols": "ビューポートのマウスコントロール",
 		"viewportmousecontrolsleft": "左クリック",
-		"viewportmousecontrolsmiddle": "中クリック"
+		"viewportmousecontrolsmiddle": "中クリック",
 		"smoothcamera": "スムーズカメラ",
 		"smoothcameraamount": "数量",
 		"startuptips": "スタートアップのヒントを表示",
@@ -642,45 +642,45 @@
 		"donate": "寄付"
 	},
 	"shortcut/": {
-		"select": "Select",
-		"selectadd": "Select (Add)",
-		"selectshape": "Select shape",
-		"deselect": "Deselect",
-		"groupselect": "Group select",
-		"moveselection": "Move selection",
-		"orbitview": "Orbit view",
-		"panview": "Pan view",
-		"walknavigation": "Walk navigation",
-		"zoom": "Zoom",
-		"transform": "Transform",
-		"transformslower": "Transform (Slow)",
-		"snap": "Snap",
-		"reset": "Reset",
-		"resizearea": "Resize area",
-		"movetab": "Move tab",
-		"resizeaxis": "Resize axis",
+		"select": "選択",
+		"selectadd": "選択（追加）",
+		"selectshape": "形状を選択",
+		"deselect": "選択解除",
+		"groupselect": "グループ選択",
+		"moveselection": "移動選択",
+		"orbitview": "軌道回転",
+		"panview": "パン",
+		"walknavigation": "ウォークナビ",
+		"zoom": "ズーム",
+		"transform": "トランスフォーム",
+		"transformslower": "トランスフォーム（スロー）",
+		"snap": "スナップ",
+		"reset": "リセット",
+		"resizearea": "領域のサイズ変更",
+		"movetab": "タブの移動",
+		"resizeaxis": "軸のサイズ変更",
 		"contextmenu/": {
-			"viewport": "Viewport context menu",
-			"element": "Element context menu",
-			"texture": "Texture context menu",
-			"uveditor": "UV editor context menu"
+			"viewport": "ビューポートコンテキストメニュー",
+			"element": "要素コンテキストメニュー",
+			"texture": "テクスチャコンテキストメニュー",
+			"uveditor": "UVエディタコンテキストメニュー"
 		},
 		"uveditor/": {
 			"edituvs": "UVを編集",
-			"editlength": "Edit length",
-			"editwidthheight": "Edit width/height",
-			"boxuvs": "Set box UVs"
+			"editlength": "長さの編集",
+			"editwidthheight": "幅/高さの編集",
+			"boxuvs": "セットボックスUV"
 		},
 		"move/": {
-			"forward": "Forward",
-            "back": "Back",
-            "left": "Left",
-            "right": "Right",
-            "ascend": "Ascend",
-            "descend": "Descend",
-            "reset": "Reset",
-            "fast": "Faster",
-            "slow": "Slower"
+			"forward": "前方",
+            "back": "後方",
+            "left": "左",
+            "right": "右",
+            "ascend": "上がる",
+            "descend": "下りる",
+            "reset": "リセット",
+            "fast": "より速く",
+            "slow": "スロー"
 		}
 	}
 }
